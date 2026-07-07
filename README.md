@@ -32,9 +32,7 @@ basic-static-website/
 └── README.md
 ```
 
-## 📸 Preview
 
-Open `index.html` in your browser to view the website.
 
 ## 👨‍💻 Author
 
